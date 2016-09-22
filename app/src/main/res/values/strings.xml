@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuiDemo</string>
+    <string name="hint_message">Saisissez votre message</string>
+    <string name="button_text">Envoyer</string>
+</resources>
